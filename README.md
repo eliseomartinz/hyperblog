@@ -18,3 +18,10 @@ Y como un amable recordatorio: **Este readme.md es un chiste**.  DiseÃ±ado par
 
 hemos  cambiado parte del codigo  para gitcherry-pick
 ejemplo de lo quedaremos
+<<<<<<< HEAD
+=======
+
+esto e s una atrocidad
+
+disponible toda las edades
+>>>>>>> readme-mejorado
